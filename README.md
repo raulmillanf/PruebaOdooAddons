@@ -1,0 +1,2 @@
+# PruebaOdooAddons
+Prueba de  addons
